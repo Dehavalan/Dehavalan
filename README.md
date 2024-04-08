@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dehavalan
-- 👀 I’m interested in coding, generative AI and Poetry 📖
-- 🌱 I’m currently learning ... generative AI, 
-- 💞️ I’m looking to collaborate on ... generative AI, python projects
-- ⚡ Fun fact: ... when I talk to myself I refer to myself as "we"
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning ... Generative AI, 
+- 💞️ I’m looking to collaborate on ... Generative AI, python projects
+- ⚡ Fun fact: ... I'm also a Poet 
 
 <!---
 Dehavalan/Dehavalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
